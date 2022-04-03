@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/queerasure_prototype/static/css/main.67146f5c.css",
+    "main.js": "/queerasure_prototype/static/js/main.13ab28b8.js",
+    "static/media/COVER.png": "/queerasure_prototype/static/media/COVER.2112b115b4f3661cc5e8.png",
+    "index.html": "/queerasure_prototype/index.html",
+    "main.67146f5c.css.map": "/queerasure_prototype/static/css/main.67146f5c.css.map",
+    "main.13ab28b8.js.map": "/queerasure_prototype/static/js/main.13ab28b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67146f5c.css",
+    "static/js/main.13ab28b8.js"
+  ]
+}
