@@ -15,7 +15,7 @@
   justify-content: space-around;
 }
 .card {
-  border: 1px solid #eee;
+  border: 1px solid rgba(200,30,84,1);
   box-shadow: 4px 4px 5px rgba(0,0,0,0.05);
   padding: 10px;
   max-width: 600px;
@@ -23,4 +23,13 @@
   border-radius: 4px;
   list-style: none;
   font-family: sans-serif;
+}
+
+.marker {
+  background-image: url('../heart.svg');
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
 }

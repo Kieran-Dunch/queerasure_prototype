@@ -8,7 +8,7 @@ export default function Footer() {
           Copyright Collective Outlook, 2022
         </div>
         <div className="footer-copyright">
-          <p>contact us at <u>collectiveoutlook@gmail.com</u></p>
+          <p>contact us at <a href="mailto: collectiveoutlook@gmail.com"><u>collectiveoutlook@gmail.com</u></a></p>
         </div>
       </div>
     </div>
