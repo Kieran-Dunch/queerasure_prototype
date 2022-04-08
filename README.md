@@ -5,3 +5,5 @@ QUEERasure is a project that attempts to uncover the hidden queer history of Mon
 This iteration involves a simple proof of concept for a granting agency.
 
 Read more about the collective here: https://www.queerasure.ca/queerasure
+
+See the map prototype here: https://kieran-dunch.github.io/queerasure_prototype/
